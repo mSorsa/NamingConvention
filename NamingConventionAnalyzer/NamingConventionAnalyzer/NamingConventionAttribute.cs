@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NamingConventionAnalyzer.Sample;
+namespace NamingConventionAnalyzer;
 
 [AttributeUsage(AttributeTargets.Interface | AttributeTargets.Class)]
 public class NamingConventionAttribute : Attribute
