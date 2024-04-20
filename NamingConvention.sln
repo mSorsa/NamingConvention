@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1C035B79-19B6-4436-B38C-C8D3B3CD3B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamingConventionAnalyzer", "NamingConventionAnalyzer\NamingConventionAnalyzer\NamingConventionAnalyzer.csproj", "{A301C8FE-2348-479B-B2BB-8B893792237B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A301C8FE-2348-479B-B2BB-8B893792237B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A301C8FE-2348-479B-B2BB-8B893792237B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A301C8FE-2348-479B-B2BB-8B893792237B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A301C8FE-2348-479B-B2BB-8B893792237B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A301C8FE-2348-479B-B2BB-8B893792237B} = {1C035B79-19B6-4436-B38C-C8D3B3CD3B47}
+	EndGlobalSection
+EndGlobal
